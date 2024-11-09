@@ -1,1 +1,1 @@
-killall com.termux
+# killall com.termux
